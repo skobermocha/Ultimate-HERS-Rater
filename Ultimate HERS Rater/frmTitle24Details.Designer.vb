@@ -59,8 +59,8 @@ Partial Class frmTitle24Details
         Me.txtRevDescription = New System.Windows.Forms.TextBox
         Me.lblRevisions = New System.Windows.Forms.Label
         Me.lstRevisions = New System.Windows.Forms.ListBox
-        Me.ShapeContainer1 = New Microsoft.VisualBasic.PowerPacks.ShapeContainer
-        Me.LineShape1 = New Microsoft.VisualBasic.PowerPacks.LineShape
+        'Me.ShapeContainer1 = New Microsoft.VisualBasic.PowerPacks.ShapeContainer
+        'Me.LineShape1 = New Microsoft.VisualBasic.PowerPacks.LineShape
         Me.grbProjectNotes = New System.Windows.Forms.GroupBox
         Me.lblNoteMessage = New System.Windows.Forms.Label
         Me.btnNoteNext = New System.Windows.Forms.Button
@@ -249,7 +249,7 @@ Partial Class frmTitle24Details
         Me.grbReportReview.Controls.Add(Me.txtRevDescription)
         Me.grbReportReview.Controls.Add(Me.lblRevisions)
         Me.grbReportReview.Controls.Add(Me.lstRevisions)
-        Me.grbReportReview.Controls.Add(Me.ShapeContainer1)
+        'Me.grbReportReview.Controls.Add(Me.ShapeContainer1)
         Me.grbReportReview.Location = New System.Drawing.Point(13, 13)
         Me.grbReportReview.Name = "grbReportReview"
         Me.grbReportReview.Padding = New System.Windows.Forms.Padding(10)
@@ -530,21 +530,21 @@ Partial Class frmTitle24Details
         '
         'ShapeContainer1
         '
-        Me.ShapeContainer1.Location = New System.Drawing.Point(10, 26)
-        Me.ShapeContainer1.Margin = New System.Windows.Forms.Padding(0)
-        Me.ShapeContainer1.Name = "ShapeContainer1"
-        Me.ShapeContainer1.Shapes.AddRange(New Microsoft.VisualBasic.PowerPacks.Shape() {Me.LineShape1})
-        Me.ShapeContainer1.Size = New System.Drawing.Size(736, 207)
-        Me.ShapeContainer1.TabIndex = 50
-        Me.ShapeContainer1.TabStop = False
+        'Me.ShapeContainer1.Location = New System.Drawing.Point(10, 26)
+        'Me.ShapeContainer1.Margin = New System.Windows.Forms.Padding(0)
+        'Me.ShapeContainer1.Name = "ShapeContainer1"
+        'Me.ShapeContainer1.Shapes.AddRange(New Microsoft.VisualBasic.PowerPacks.Shape() {Me.LineShape1})
+        'Me.ShapeContainer1.Size = New System.Drawing.Size(736, 207)
+        'Me.ShapeContainer1.TabIndex = 50
+        'Me.ShapeContainer1.TabStop = False
         '
         'LineShape1
         '
-        Me.LineShape1.Name = "LineShape1"
-        Me.LineShape1.X1 = 321
-        Me.LineShape1.X2 = 321
-        Me.LineShape1.Y1 = -4
-        Me.LineShape1.Y2 = 207
+        'Me.LineShape1.Name = "LineShape1"
+        'Me.LineShape1.X1 = 321
+        'Me.LineShape1.X2 = 321
+        'Me.LineShape1.Y1 = -4
+        'Me.LineShape1.Y2 = 207
         '
         'grbProjectNotes
         '
@@ -1576,8 +1576,8 @@ Partial Class frmTitle24Details
     Friend WithEvents lblDivision As System.Windows.Forms.Label
     Friend WithEvents btnRevisionAdd As System.Windows.Forms.Button
     Friend WithEvents lblProjectNumber As System.Windows.Forms.Label
-    Friend WithEvents ShapeContainer1 As Microsoft.VisualBasic.PowerPacks.ShapeContainer
-    Friend WithEvents LineShape1 As Microsoft.VisualBasic.PowerPacks.LineShape
+    'Friend WithEvents ShapeContainer1 As Microsoft.VisualBasic.PowerPacks.ShapeContainer
+    'Friend WithEvents LineShape1 As Microsoft.VisualBasic.PowerPacks.LineShape
     Friend WithEvents txtVersionDate As System.Windows.Forms.TextBox
     Friend WithEvents lblVersionDate As System.Windows.Forms.Label
     Friend WithEvents lblIncentives As System.Windows.Forms.Label

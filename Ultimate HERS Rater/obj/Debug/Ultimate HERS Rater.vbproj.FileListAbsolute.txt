@@ -122,3 +122,28 @@ X:\My Dropbox\Visual Studio 2008\Projects\Ultimate HERS Rater\Ultimate HERS Rate
 X:\My Dropbox\Visual Studio 2008\Projects\Ultimate HERS Rater\Ultimate HERS Rater\obj\Debug\WindowsApplication1.frmCustomerDetails.resources
 X:\My Dropbox\Visual Studio 2008\Projects\Ultimate HERS Rater\Ultimate HERS Rater\obj\Debug\WindowsApplication1.frmUsers.resources
 X:\My Dropbox\Visual Studio 2008\Projects\Ultimate HERS Rater\Ultimate HERS Rater\obj\Debug\WindowsApplication1.frmInvoiceDetails.resources
+C:\codingprojects\ultimate-hers-rater\Ultimate HERS Rater\obj\Debug\Ultimate HERS Rater.vbprojAssemblyReference.cache
+C:\codingprojects\ultimate-hers-rater\Ultimate HERS Rater\obj\Debug\WindowsApplication1.frmAddTradeContact.resources
+C:\codingprojects\ultimate-hers-rater\Ultimate HERS Rater\obj\Debug\WindowsApplication1.frmChangePassword.resources
+C:\codingprojects\ultimate-hers-rater\Ultimate HERS Rater\obj\Debug\WindowsApplication1.frmCustomerTypes.resources
+C:\codingprojects\ultimate-hers-rater\Ultimate HERS Rater\obj\Debug\WindowsApplication1.frmDepartments.resources
+C:\codingprojects\ultimate-hers-rater\Ultimate HERS Rater\obj\Debug\WindowsApplication1.frmIncentivePrograms.resources
+C:\codingprojects\ultimate-hers-rater\Ultimate HERS Rater\obj\Debug\WindowsApplication1.frmTitle24Details.resources
+C:\codingprojects\ultimate-hers-rater\Ultimate HERS Rater\obj\Debug\WindowsApplication1.frmProjectDetails.resources
+C:\codingprojects\ultimate-hers-rater\Ultimate HERS Rater\obj\Debug\WindowsApplication1.frmMainMenu.resources
+C:\codingprojects\ultimate-hers-rater\Ultimate HERS Rater\obj\Debug\WindowsApplication1.frmLogIn.resources
+C:\codingprojects\ultimate-hers-rater\Ultimate HERS Rater\obj\Debug\WindowsApplication1.frmProjectLookup.resources
+C:\codingprojects\ultimate-hers-rater\Ultimate HERS Rater\obj\Debug\WindowsApplication1.frmCustomerDetails.resources
+C:\codingprojects\ultimate-hers-rater\Ultimate HERS Rater\obj\Debug\WindowsApplication1.frmUsers.resources
+C:\codingprojects\ultimate-hers-rater\Ultimate HERS Rater\obj\Debug\WindowsApplication1.Resources.resources
+C:\codingprojects\ultimate-hers-rater\Ultimate HERS Rater\obj\Debug\WindowsApplication1.frmInvoiceDetails.resources
+C:\codingprojects\ultimate-hers-rater\Ultimate HERS Rater\obj\Debug\Ultimate HERS Rater.vbproj.GenerateResource.cache
+C:\codingprojects\ultimate-hers-rater\Ultimate HERS Rater\obj\Debug\Ultimate HERS Rater.vbproj.CoreCompileInputs.cache
+C:\codingprojects\ultimate-hers-rater\Ultimate HERS Rater\obj\Debug\EnergyBase.exe
+C:\codingprojects\ultimate-hers-rater\Ultimate HERS Rater\obj\Debug\EnergyBase.xml
+C:\codingprojects\ultimate-hers-rater\Ultimate HERS Rater\obj\Debug\EnergyBase.pdb
+C:\codingprojects\ultimate-hers-rater\Ultimate HERS Rater\bin\Debug\EnergyBase.ico
+C:\codingprojects\ultimate-hers-rater\Ultimate HERS Rater\bin\Debug\EnergyBase.exe.config
+C:\codingprojects\ultimate-hers-rater\Ultimate HERS Rater\bin\Debug\EnergyBase.exe
+C:\codingprojects\ultimate-hers-rater\Ultimate HERS Rater\bin\Debug\EnergyBase.pdb
+C:\codingprojects\ultimate-hers-rater\Ultimate HERS Rater\bin\Debug\EnergyBase.xml

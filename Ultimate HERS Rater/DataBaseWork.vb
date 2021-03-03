@@ -4,7 +4,7 @@
     Dim da As OleDb.OleDbDataAdapter
 
     Public Sub Connect()
-        Connection.ConnectionString = "PROVIDER=Microsoft.ACE.OLEDB.12.0;Data Source = t:\DuctTestersDB.accdb"
+        Connection.ConnectionString = "PROVIDER=Microsoft.ACE.OLEDB.12.0;Data Source = C:\codingprojects\ultimate-hers-rater\DuctTestersDB.accdb"
         Connection.Open()
 
     End Sub

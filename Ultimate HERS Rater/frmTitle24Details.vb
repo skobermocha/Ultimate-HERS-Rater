@@ -31,7 +31,7 @@
         ' Populate Report Review group Box
         FindRevisions()
         lstRevisions.SelectedIndex = ProjectInfo.GetRevisionCount() - 1
-        cmbRevisionFilter.SelectedIndex = -1
+        'cmbRevisionFilter.SelectedIndex = -1
         GetRevisionInfo()
 
         'Populate Versions review group box
