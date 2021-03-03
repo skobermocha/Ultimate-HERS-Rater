@@ -1,0 +1,19 @@
+Make sure you have unzipped these files somewhere before start.
+
+Copy the file msflxgrd.ocx to C:\windows\system32
+
+click the start button, then the run button
+copy and paste this command into the field
+
+regsvr32  \windows\system32\msflxgrd.ocx
+then hit enter
+
+YOu should get message saying that it succeeded.
+
+Then double click the licences file.
+Then click Run, the click yes.
+
+Then you can start access again.
+the form is labelled as 
+Microsoft Flex Grid COntrol Version 6.0
+
